@@ -1,0 +1,51 @@
+product_id,product_name,product_category,unit_price
+PROD0001,Bed Frame,Furniture,335.27
+PROD0002,Puzzle,Toys,27.68
+PROD0003,Office Chair,Furniture,47.15
+PROD0004,Bookshelf,Furniture,141.11
+PROD0005,Organic Coffee,Grocery,221.32
+PROD0006,Dumbbell Set,Sports,131.5
+PROD0007,Bluetooth Speaker,Electronics,53.88
+PROD0008,Tire Gauge,Automotive,249.02
+PROD0009,Face Serum,Beauty,279.27
+PROD0010,Seat Cover,Automotive,5.27
+PROD0011,Coffee Table,Furniture,84.9
+PROD0012,Action Figure,Toys,254.89
+PROD0013,Cookbook,Books,479.7
+PROD0014,Remote Car,Toys,382.42
+PROD0015,Biography,Books,182.19
+PROD0016,Water Bottle,Sports,49.53
+PROD0017,Phone Mount,Automotive,102.06
+PROD0018,Denim Jeans,Clothing,86.42
+PROD0019,Running Shoes,Clothing,66.79
+PROD0020,Running Shorts,Sports,37.57
+PROD0021,Protein Powder,Grocery,97.03
+PROD0022,Children's Book,Books,481.72
+PROD0023,Smartphone Case,Electronics,235.94
+PROD0024,Wireless Earbuds,Electronics,19.86
+PROD0025,Shampoo,Beauty,113.38
+PROD0026,Yoga Mat,Sports,416.57
+PROD0027,Self-Help Book,Books,217.62
+PROD0028,Board Game,Toys,219.09
+PROD0029,Fiction Novel,Books,422.09
+PROD0030,Moisturizer,Beauty,260.33
+PROD0031,Olive Oil,Grocery,89.85
+PROD0032,Resistance Bands,Sports,412.6
+PROD0033,Car Vacuum,Automotive,350.83
+PROD0034,Perfume,Beauty,233.77
+PROD0035,Laptop Stand,Electronics,494.7
+PROD0036,Wool Sweater,Clothing,490.8
+PROD0037,Winter Jacket,Clothing,306.22
+PROD0038,Lipstick,Beauty,90.97
+PROD0039,Storage Containers,Home & Kitchen,214.24
+PROD0040,Knife Set,Home & Kitchen,132.36
+PROD0041,Snack Pack,Grocery,458.49
+PROD0042,Building Blocks,Toys,464.86
+PROD0043,Cotton T-Shirt,Clothing,322.5
+PROD0044,Desk Lamp,Furniture,36.65
+PROD0045,Coffee Maker,Home & Kitchen,478.92
+PROD0046,USB-C Cable,Electronics,57.69
+PROD0047,Cereal Box,Grocery,363.53
+PROD0048,Blender,Home & Kitchen,206.61
+PROD0049,Non-stick Pan,Home & Kitchen,43.98
+PROD0050,Air Freshener,Automotive,335.78
