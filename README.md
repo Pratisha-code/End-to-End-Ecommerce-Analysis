@@ -13,8 +13,9 @@ The objective of this project is to analyze E-commerce sales data and understand
 - Order trends
   
 - Regional sales
-- 
+  
 - Payment methods
+  
 - Customer purchasing patterns
   
 - Monthly and time-based sales trends
