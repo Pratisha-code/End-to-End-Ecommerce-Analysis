@@ -5,12 +5,18 @@ The project covers data cleaning, exploratory data analysis, SQL analysis, stati
 The objective of this project is to analyze E-commerce sales data and understand:
 
 - Sales performance
+  
 - Customer behavior
+  
 - Product performance
+  
 - Order trends
+  
 - Regional sales
+- 
 - Payment methods
 - Customer purchasing patterns
+  
 - Monthly and time-based sales trends
 
 The project follows a complete data analytics workflow:
@@ -27,8 +33,11 @@ The project contains three main datasets:
 ## 🧹  Data Cleaning
 Removed duplicates, handled missing/null values, and fixed data type inconsistencies.
 Cleaning performed in two parallel approaches:
+
 SQL: E-commerce(SQL_cleaning_query).sql
+
 Python: Cleaned(python_codes).ipynb
+
 Final cleaned datasets exported as Excel/CSV for downstream analysis.
 ### Tools Used
 
@@ -41,8 +50,11 @@ Analyzed customer demographics, order frequency, product performance, and revenu
 Identified outliers, trends, and correlations between key variables.
 
 ## 📈 Statistical & Time-Series Analysis
+
 Notebook: Statistical(Time_series).ipynb
+
 Studied sales trends over time, seasonality, and growth patterns.
+
 Applied statistical tests/models to validate significant patterns.
 
 ## 🗄️SQL Analysis
@@ -50,21 +62,25 @@ Script: SQL_Analysis(E-commerce).sql
 Business-focused queries: top customers, best-selling products, monthly revenue, order status breakdown, etc.
 
 ## 📊 Visualization
-"C:\Users\prati\Videos\Screen Recordings\Screen Recording 2026-08-24 204226.mp4"
+
+"C:\Users\prati\OneDrive\Pictures\Screenshots 1\Screenshot 2026-08-26 112334.png"
 
 Interactive dashboard summarizing KPIs — total revenue, order volume, top products/customers, and trends.
 
 ## 🛠️ Tools & Technologies
 Python: Pandas, NumPy, Matplotlib/Seaborn (Jupyter Notebook)
+
 SQL: Data cleaning & business analysis queries
+
 Excel: Intermediate data storage and validation
+
 Dashboard Tool: Power BI / Excel (for visualization)
 
 ## 💡 Key Insights
 
-Revenue peaks during [specific months/season].
-Top X% of customers contribute Y% of total revenue.
-[Product category] has the highest return rate.
+Revenue peaks during November.
+Top of customers contribute Y% of total revenue.
+Home & Kitchen has the highest return rate.
 
 ## 🚀 How to Use
 Clone this repository
