@@ -64,7 +64,9 @@ Business-focused queries: top customers, best-selling products, monthly revenue,
 
 ## 📊 Visualization
 
-"C:\Users\prati\OneDrive\Pictures\Screenshots 1\Screenshot 2026-08-26 112334.png"
+<img width="730" height="702" alt="Screenshot 2026-08-26 112334" src="https://github.com/user-attachments/assets/8617e52f-22fa-4f38-a60c-16e600f58f26" />
+
+<img width="726" height="681" alt="Screenshot 2026-08-26 112417" src="https://github.com/user-attachments/assets/f1d51239-b750-42b4-93f8-eefd446fe0b7" />
 
 Interactive dashboard summarizing KPIs — total revenue, order volume, top products/customers, and trends.
 
